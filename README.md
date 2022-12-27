@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://rishavchanda.io)
 <h1 align="center">Olá, Meu nome é João Pedro Lima Teixeira 👋</h1>
 <h3 align="center">Atualmente me aprimorando como Full-Stack Web ⚡</h3>
 
