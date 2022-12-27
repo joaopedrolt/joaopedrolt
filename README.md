@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Meu nome é João Pedro Lima Teixeira 👋</h1>
 <h3 align="center">Atualmente me aprimorando como Full-Stack Web ⚡</h3>
 
-<p align="center"> 🌱 Estudando **NestJs** </p>
+<p align="center"> 🌱 Estudando <b>NestJs</b> </p>
 <p align="center"> 📫 Contato: **joaopedrolimateixeira@outlook.com** </p>
 <p align="center"> 📝 Formação: **Análise e Desenvolvimento de Sistemas - Fatec** </p>
 
