@@ -3,11 +3,11 @@
 
 <p align="center">
   
-<p>🌱 Estudando **NestJs**</p>
+🌱 Estudando **NestJs**
 
-<p>📫 Contato: **joaopedrolimateixeira@outlook.com**</p>
+📫 Contato: **joaopedrolimateixeira@outlook.com**
 
-<p>📝 Formação: **Análise e Desenvolvimento de Sistemas - Fatec**</p>
+📝 Formação: **Análise e Desenvolvimento de Sistemas - Fatec**
   
 </p>
 
