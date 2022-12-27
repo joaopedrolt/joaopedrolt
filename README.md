@@ -3,9 +3,9 @@
 
 - 🌱 Estudando **NestJs**
 
-- 📫 Entre em contato **joaopedrolimateixeira@outlook.com**
+- 📫 Contato: **joaopedrolimateixeira@outlook.com**
 
-- 📝 Formação **Análise e Desenvolvimento de Sistemas - Fatec**
+- 📝 Formação: **Análise e Desenvolvimento de Sistemas - Fatec**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
