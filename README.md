@@ -2,7 +2,7 @@
 <h3 align="center">Atualmente me aprimorando como Full-Stack Web ⚡</h3>
 
 <p align="center"> 🌱 Estudando <b>NestJs</b> </p>
-<p align="center"> 📫 Contato: <a href = "<b>joaopedrolimateixeira@outlook.com</b>?subject = Gostaria de entrar em contato - *SeuNome*&body = *Mensagem*">
+<p align="center"> 📫 Contato: <a href = "<b>mailto:joaopedrolimateixeira@outlook.com</b>?subject = Gostaria de entrar em contato - *SeuNome*&body = *Mensagem*">
 joaopedrolimateixeira@outlook.com
 </a> </p>
 
