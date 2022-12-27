@@ -2,7 +2,10 @@
 <h3 align="center">Atualmente me aprimorando como Full-Stack Web ⚡</h3>
 
 <p align="center"> 🌱 Estudando <b>NestJs</b> </p>
-<p align="center"> 📫 Contato: <b>joaopedrolimateixeira@outlook.com</b> </p>
+<p align="center"> 📫 Contato: <a href = "<b>joaopedrolimateixeira@outlook.com</b>?subject = Gostaria de entrar em contato - *SeuNome*&body = *Mensagem*">
+joaopedrolimateixeira@outlook.com
+</a> </p>
+
 <p align="center"> 📝 Formação: <b>Análise e Desenvolvimento de Sistemas - Fatec</b> </p>
 
 <h3 align="center">Linguagens & Ferramentas:</h3>
