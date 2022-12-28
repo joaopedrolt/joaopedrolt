@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)]
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)]()
 <h1 align="center">Olá, Meu nome é João Pedro Lima Teixeira 👋</h1>
 <h3 align="center">Atualmente me aprimorando como Full-Stack Web ⚡</h3>
 
