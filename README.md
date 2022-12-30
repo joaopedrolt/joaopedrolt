@@ -18,4 +18,4 @@ joaopedrolimateixeira@outlook.com
 </p>
 
 <h3 align="center">Outras informações:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrolt&show_icons=true&theme=gruvbox&bg_color=ffffff&locale=en&layout=compact" alt="joaopedrolt" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrolt&show_icons=true&theme=gruvbox&bg_color=ffffff&locale=en&layout=compact" alt="joaopedrolt" /></p>
