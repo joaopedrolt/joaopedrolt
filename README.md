@@ -2,7 +2,7 @@
 <h1 align="center">Olá, Meu nome é João Pedro Lima Teixeira 👋</h1>
 <h3 align="center">Atualmente me aprimorando como Full-Stack Web ⚡</h3>
 
-<p align="center"> 🌱 Estudando <b>NestJs</b> </p>
+<p align="center"> 🌱 Estudando <b>ThreeJs</b> </p>
 <p align="center"> 📫 Contato: <a href = "mailto:joaopedrolimateixeira@outlook.com">
 joaopedrolimateixeira@outlook.com
 </a> </p>
