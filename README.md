@@ -6,6 +6,9 @@
 <p align="center"> 📫 Contato: <a href = "mailto:joaopedrolimateixeira@outlook.com">
 joaopedrolimateixeira@outlook.com
 </a> </p>
+<p align="center"> 👨‍💻 Meu portfólio: <a href = "https://joaopedrolt.vercel.app">
+Clique aqui
+</a> </p>
 
 <p align="center"> 📝 Formação: <b>Análise e Desenvolvimento de Sistemas - Fatec</b> </p>
 
