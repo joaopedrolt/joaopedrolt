@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)]()
 <h1 align="center">Olá, Meu nome é João Pedro 👋</h1>
-<h3 align="center">Atualmente trabalhando como desenvolvedor Full-Stack Web ⚡</h3>
+<h3 align="center">Atualmente trabalhando como desenvolvedor Full-Stack ⚡</h3>
 
 <p align="center"> 🌱 Estudando <b>Vue.js / ASP.NET / Sql Server / React Native</b> </p>
 <p align="center"> 📫 Contato: <a href = "mailto:joaopedrolimateixeira@outlook.com">
