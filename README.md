@@ -3,7 +3,7 @@
 <h3 align="center">Atualmente trabalhando como desenvolvedor Full-Stack ⚡</h3>
 
 <p align="center"> <b>🌱 Usando no Cotidiano:</b> Vue.js (Vuetify) / C# (ASP.NET Core) / Sql Server</p>
-<p align="center"> <b>🔭 Projeto Atual:</b> Sistema de Monitoramento e Autuação de Trânsito para a cidade de Santo André</p>
+<p align="center"> <b>🔭 Projeto Atual:</b> Sistema de Monitoramento e Autuação de Trânsito para a Cidade de Santo André</p>
 <p align="center"> <b>📫 Contato:</b> <a href = "mailto:joaopedrolimateixeira@outlook.com">
 joaopedrolimateixeira@outlook.com
 </a></p>
