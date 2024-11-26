@@ -2,9 +2,8 @@
 <h1 align="center">Olá, Meu nome é João Pedro 👋</h1>
 <h3 align="center">Atualmente trabalhando como desenvolvedor Full-Stack ⚡</h3>
 
-<p align="center"> 🔭 Projeto Recente: <b>Sistema de Monitoramento e Autuação de Trânsito para a cidade de Santo André</b> </p>
-
 <p align="center"> 🌱 Usando no Cotidiano: <b>Vue.js (Vuetify) / C# (ASP.NET Core) / Sql Server </b> </p>
+<p align="center"> 🔭 Projeto mais Recente: <b>Sistema de Monitoramento e Autuação de Trânsito para a cidade de Santo André</b> </p>
 <p align="center"> 📫 Contato: <a href = "mailto:joaopedrolimateixeira@outlook.com">
 joaopedrolimateixeira@outlook.com
 </a> </p>
