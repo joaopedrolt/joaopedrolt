@@ -4,10 +4,10 @@
 
 <p align="center"> <b>🌱 Usando no Cotidiano:</b> Vue.js (Vuetify) / C# (ASP.NET Core) / Sql Server</p>
 <p align="center"> <b>🔭 Projeto Atual:</b> Sistema de Monitoramento e Autuação de Trânsito para a Cidade de Santo André</p>
+<p align="center"> <b>📝 Formação:</b> Análise e Desenvolvimento de Sistemas - Fatec</p>
 <p align="center"> <b>👨‍💻 Meu portfólio:</b> <a href = "https://joaopedrolt.vercel.app">
 Clique aqui
 </a></p>
-<p align="center"> <b>📝 Formação:</b> Análise e Desenvolvimento de Sistemas - Fatec</p>
 <p align="center"> <b>📫 Contato:</b> <a href = "mailto:joaopedrolimateixeira@outlook.com">
 joaopedrolimateixeira@outlook.com
 </a></p>
